@@ -28,7 +28,8 @@ RUN apt-get update && apt-get install -y \
   php-mysql \
   php-soap \
   php-xml \
-  unzip
+  unzip \
+  zip
 
 # Install composer
 RUN curl -sLS https://getcomposer.org/installer | \
