@@ -1,6 +1,6 @@
 # PHP-CLI
 
-A base environment for uazgradcoll/php-cli projects
+A base environment for uazgradcoll/php-cli projects, especially CakePHP 3.x console applications.
 
 ## Build
 
