@@ -34,3 +34,7 @@ RUN apt-get update && apt-get install -y \
 # Install composer
 RUN curl -sLS https://getcomposer.org/installer | \
   php -- --install-dir=/usr/local/bin/ --filename=composer
+
+# Metadata
+LABEL org.label-schema.tag = "php-7.0"
+
