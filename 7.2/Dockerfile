@@ -28,6 +28,7 @@ RUN apt-get update && apt-get install -y \
   php7.2-soap \
   php7.2-xml \
   unzip \
+  vim-tiny \
   zip
 
 # Install composer

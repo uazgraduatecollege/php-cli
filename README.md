@@ -4,7 +4,7 @@ A base environment for uazgradcoll/php-cli projects, especially CakePHP 3.x cons
 
 Multilple PHP version are supported through the following tags:
 
-- `latest`: Same as php-7.2
+- `latest`: Same as php-7.4
 
 Base OS: Ubuntu 20.04LTS
 

@@ -29,6 +29,7 @@ RUN apt-get update && apt-get install -y \
   php-soap \
   php-xml \
   unzip \
+  vim-tiny \
   zip
 
 # Install composer
